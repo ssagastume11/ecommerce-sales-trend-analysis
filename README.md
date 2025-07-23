@@ -80,6 +80,7 @@ The final chart, saved in the `charts/` folder, displays:
 - Monthly Total Sales
 - Number of Orders
 - Total Quantity Sold
+
 This visual helps identify patterns such as peak months and inventory spikes.
 
 ---
@@ -90,6 +91,7 @@ The final presentation summarizes:
 - Data Preparations steps
 - Key findings and visualizations
 - Actionable recommendations
+
 View it in the `presentation/` folder.
 
 ---
